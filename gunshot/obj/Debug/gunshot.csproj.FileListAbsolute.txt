@@ -1,0 +1,10 @@
+C:\Users\brarj\source\repos\gunshot\gunshot\obj\Debug\gunshot.csprojAssemblyReference.cache
+C:\Users\brarj\source\repos\gunshot\gunshot\obj\Debug\gunshot.Form1.resources
+C:\Users\brarj\source\repos\gunshot\gunshot\obj\Debug\gunshot.Properties.Resources.resources
+C:\Users\brarj\source\repos\gunshot\gunshot\obj\Debug\gunshot.csproj.GenerateResource.cache
+C:\Users\brarj\source\repos\gunshot\gunshot\obj\Debug\gunshot.csproj.CoreCompileInputs.cache
+C:\Users\brarj\OneDrive\Desktop\gunshot\gunshot\obj\Debug\gunshot.csprojAssemblyReference.cache
+C:\Users\brarj\OneDrive\Desktop\gunshot\gunshot\obj\Debug\gunshot.Form1.resources
+C:\Users\brarj\OneDrive\Desktop\gunshot\gunshot\obj\Debug\gunshot.Properties.Resources.resources
+C:\Users\brarj\OneDrive\Desktop\gunshot\gunshot\obj\Debug\gunshot.csproj.GenerateResource.cache
+C:\Users\brarj\OneDrive\Desktop\gunshot\gunshot\obj\Debug\gunshot.csproj.CoreCompileInputs.cache
